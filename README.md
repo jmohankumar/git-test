@@ -2,4 +2,4 @@
 
 ## Instructions
 
-This is test repository
+This is test git repository
